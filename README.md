@@ -1,9 +1,9 @@
 ## Mateus José dos Santos
- <div>
-  <a href="https://github.com/mateusjs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusjs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusjs&layout=compact&langs_count=7&theme=algolia"/>
-</div>
+ <> <div>
+  <>  <a href="https://github.com/mateusjs">
+  <> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusjs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusjs&layout=compact&langs_count=7&theme=algolia"/>
+<> </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Fast-api"  src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
